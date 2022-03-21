@@ -1,6 +1,6 @@
 # myapp
 
-My new app
+Contains many login screens example using flutter
 
 ## Getting Started
 
